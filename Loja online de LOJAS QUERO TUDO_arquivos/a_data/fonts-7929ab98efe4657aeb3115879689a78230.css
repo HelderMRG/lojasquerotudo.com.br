@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-mediumitalic-webfont.woff2') format('woff2'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-mediumitalic-webfont.woff') format('woff'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-mediumitalic-webfont.ttf') format('truetype'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-mediumitalic-webfont.eot') format('eot');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-bookitalic-webfont.woff2') format('woff2'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-bookitalic-webfont.woff') format('woff'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-bookitalic-webfont.ttf') format('truetype'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-bookitalic-webfont.eot') format('eot');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-book-webfont.woff2') format('woff2'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-book-webfont.woff') format('woff'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-book-webfont.ttf') format('truetype'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-book-webfont.eot') format('eot');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-medium-webfont.woff2') format('woff2'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-medium-webfont.woff') format('woff'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-medium-webfont.ttf') format('truetype'),
+         url('https://lojasquerotudo.com.br/loja%20online%20de%20lojas%20quero%20tudo_arquivos/a_data/centranube-medium-webfont.eot') format('eot');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
